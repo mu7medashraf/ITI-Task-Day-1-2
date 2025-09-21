@@ -1,0 +1,14 @@
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\bin\Debug\net7.0\Task_day_6.exe
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\bin\Debug\net7.0\Task_day_6.deps.json
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\bin\Debug\net7.0\Task_day_6.runtimeconfig.json
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\bin\Debug\net7.0\Task_day_6.dll
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\bin\Debug\net7.0\Task_day_6.pdb
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\obj\Debug\net7.0\Task_day_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\obj\Debug\net7.0\Task_day_6.AssemblyInfoInputs.cache
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\obj\Debug\net7.0\Task_day_6.AssemblyInfo.cs
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\obj\Debug\net7.0\Task_day_6.csproj.CoreCompileInputs.cache
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\obj\Debug\net7.0\Task_day_6.dll
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\obj\Debug\net7.0\refint\Task_day_6.dll
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\obj\Debug\net7.0\Task_day_6.pdb
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\obj\Debug\net7.0\Task_day_6.genruntimeconfig.cache
+C:\Users\ByteStore\OneDrive\Desktop\ITI\C#\Day 6\Task_day_6\Task_day_6\obj\Debug\net7.0\ref\Task_day_6.dll
